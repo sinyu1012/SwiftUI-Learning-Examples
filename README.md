@@ -116,23 +116,6 @@
 - Xcode 14.0 或更高版本
 - iOS 15.0 或更高版本的设备/模拟器
 
-### 安装步骤
-
-1. **克隆项目**
-   ```bash
-   git clone https://github.com/你的用户名/FirstIOSAppTest.git
-   cd FirstIOSAppTest
-   ```
-
-2. **打开项目**
-   ```bash
-   open FirstIOSAppTest.xcodeproj
-   ```
-
-3. **运行应用**
-   - 在 Xcode 中选择目标设备或模拟器
-   - 按 `Cmd + R` 运行项目
-
 ## 📁 项目结构
 
 ```
@@ -181,32 +164,6 @@ FirstIOSAppTest/
 7. **组件封装**: 创建可复用的自定义组件
 8. **网络编程**: 集成真实的数据和 API
 
-## 🤝 贡献指南
-
-欢迎提交问题和改进建议！
-
-1. Fork 这个项目
-2. 创建你的特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交你的更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 打开一个 Pull Request
-
-## 📝 许可证
-
-本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
-
-## 🙏 致谢
-
-- Apple 的 SwiftUI 官方文档
-- SwiftUI 社区的优秀教程和示例
-- 所有为 iOS 开发贡献知识的开发者们
-
-## 📞 联系方式
-
-如果你有任何问题或建议，请通过以下方式联系：
-
-- 创建 [Issue](https://github.com/你的用户名/FirstIOSAppTest/issues)
-- 发送邮件至: [你的邮箱]
 
 ---
 
